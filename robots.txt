@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leonardoloayza.github.io/sitemap.xml
